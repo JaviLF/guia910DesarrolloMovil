@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SnackBarKotlin</string>
+    <string name="mensaje_snackbar">SnackBarKotlin Example</string>
+    <string name="user1">John</string>
+    <string name="email1">john@gmail.com</string>
+    <string name="user2">Andrew</string>
+    <string name="email2">andrew@gmail.com</string>
+    <string name="user3">Kunal</string>
+    <string name="email3">kunal@gmail.com</string>
+    <string name="user4">Sunder</string>
+    <string name="email4">sunder@gmail.com</string>
+    <string name="user5">Azhar</string>
+    <string name="email5">azher@gmail.com</string>
+
+    <string name="horas">7:24 PM - 8:00 PM</string>
+    <string name="minutos">36 min</string>
+
+    <string name="mayor"> > </string>
+    <string name="hora">7:26 PM from 96 St</string>
+
+    <string name="mins13">13 min</string>
+    <string name="mins12">Every 12 min</string>
+</resources>
